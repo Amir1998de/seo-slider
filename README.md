@@ -145,6 +145,13 @@ Include alt, width, and height attributes for each image for better SEO performa
 
 Have a look at this ecommerce shop in production: https://www.call4drinks.de/.
 
+## Live Example
+
+To see the slider in action, check out this live demo on JSFiddle:
+[Interactive Example on JSFiddle](https://jsfiddle.net/djmj1000/gxjafect/714/)
+
+This example shows the basic setup and features described in the documentation above.
+
 ## Feedback
 
 Create an issue if you have feedback, tips or find bugs!
